@@ -8,4 +8,5 @@ https://github.com/scripthookvdotnet/scripthookvdotnet-nightly/releases/download
 • Bây giờ các bạn vào thư mục chứa game rồi vào theo đường dẫn ```\Scripts\RageCoop\Data``` và chỉnh sửa tệp ```RageCoop.Client.Settings.xml```<br>
 • Các bạn tìm đến dòng ```<MenuKey>F11</MenuKey>``` để sửa MenuKey nhé, như ở đây mình đang đặt là ```F11``` để tránh trùng phím với ```Menyoo``` rồi lưu lại<br>
 • Bây giờ các bạn vào game và nhấn nút MenuKey mà các bạn đã đặt, rồi tìm đến dòng ```Server IP``` và nhập ```103.166.184.239:4499``` rồi chọn dòng ```Connect``` để kết nối.<br>
-• Chúc các bạn thành công! Đừng quên donate để duy trì dịch vụ nhé (https://khahdihdz.github.io)
+• Chúc các bạn thành công! Đừng quên donate để duy trì dịch vụ nhé!<br>
+• Discord: https://bom.so/GTAV-Coop
